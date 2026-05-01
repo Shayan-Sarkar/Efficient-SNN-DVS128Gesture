@@ -1,4 +1,4 @@
-# DVS128 Gesture
+# DVS128 Gesture - SNN
 
 Spiking neural network achieving **86.46% accuracy** on the IBM DVS128 Gesture dataset with only **320 K parameters**, trained via dual-teacher knowledge distillation.
 
